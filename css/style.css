@@ -1,0 +1,17 @@
+/* CSS Document */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,blockquote,p,span,img{margin:0;padding:0;}
+body{font-family:"microsoft yahei",Arial,Helvetica,sans-serif;position:relative; font-size:inherit; overflow-x:hidden;}
+body {-moz-user-select: none; /*火狐*/-webkit-user-select: none; /*webkit浏览器*/-ms-user-select: none; /*IE10*/-khtml-user-select: none; /*早期浏览器*/user-select: none;}/*这是取消轮播出现的蓝屏效果*/
+h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:100%;}
+a{color: #e3e3e3}
+img{vertical-align:middle;border:none; }
+ol,ul,li{list-style:none;}
+table{border-collapse:collapse; }
+.clearit{clear:both;*display:inline;}
+.fl{float:left;}
+.fr{float:right;}
+i,em{font-style:normal;}
+b{ font-weight:normal;}
+a{-webkit-tap-highlight-color:rgba(0,0,0,0);text-decoration:none;}/*这是取消a标记所点击的蓝屏效果*/
+.tt{transition:all 1s ease-out; -moz-transition:all 1s ease-out; -ms-transition:all 1s ease-out; -webkit-transition:all 1s ease-out;-o-transition:all 1s ease-out;}
+a:focus{outline:none;}

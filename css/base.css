@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+/*全局样式*/
+*{margin:0;padding:0}
+
+html{color:#000;overflow-x:auto!important;overflow-x:hidden;overflow-y:auto}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}
+li{list-style:none}
+caption,th{text-align:left}
+q:before,q:after{content:''}
+abbr,acronym{border:0;font-variant:normal}
+sup{vertical-align:text-top}
+sub{vertical-align:text-bottom}
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;*font-size:100%;}
+legend{color:#000;}
+del,ins{text-decoration:none}
+p{ margin:0; padding:0}
+img {-ms-interpolation-mode: bicubic;}
+a{ text-decoration:none; color: #000;}
+.clear{ clear:both; height:0; line-height:0; font-size:0}
+.hidden{text-indent:-5000px; display:block; height:0; font-size:0; line-height:0; overflow:hidden}
+
+.content{ width: 1260px; margin: 0 auto; }
+/*头部*/
+.head{ width: 100%; min-width: 1287px; height: 40px; background: #fff;}
+.head-advert{ position: absolute; top: 0; left: 50%; margin-left: -440px; width: 230px; height: 40px;}
+.head-advert:hover .advert-show{ display: block;}
+.advert-show{ display: none; position: absolute; top: 40px; left: 50%; margin-left: -290px;}
+.top-btn{ float: right; height: 40px; line-height: 40px;}
+.header{ height: 160px; padding-top: 10px;}
+/*导航*/
+.logo{ float: left; width: 232px;}
+.nav{ float: left; padding-top: 20px;}
+.nav li{ float: left; margin-right: 50px;}
+.nav li .nav-btn{ display: block; width: 95px; height: 20px; color:#000; font-size:18px;}
+.nav li .nav-btn2{ background-position-x: -95px; }
+.nav li .nav-btn3{ background-position-x: -190px; }
+.nav li .nav-btn4{ background-position-x: -285px; }
+.nav li .nav-btn5{ background-position-x: -380px; }
+.nav li .nav-btn6{ background-position-x: -475px; }
+.nav li .nav-btn7{ background-position-x: -570px; }
+.nav li .nav-btn:hover{ background-position-y: -22px; }
+.nav li a:hover{ color:#F90}
+/*slogan*/
+.slogan{ height: 480px; }
+.slogan img{ margin-left: 20px;}
+/*底部*/
+.footer{ min-width: 1260px; height: 140px; background: #32353e; box-sizing: border-box; padding: 40px; text-align: center; color: #fff;}
+.footer p{ margin-bottom: 6px;}
+.footer a{color: #fff;}
+.footer a:hover{ text-decoration: underline;}
+/*登录*/
+#dl{ padding: 20px 50px 50px; display: none;}
+.divInput{ position: relative; margin-bottom: 20px;}
+.divInput1{ margin-bottom: 10px;}
+.divInput img{ position: absolute; top:6px; left:4px;}
+.divInput input[type=checkbox]{position: absolute; top:10px;}
+.divInput span{margin-left: 16px; color: #999;}
+.user_title{font:16px "Microsoft Yahei"; font-weight: bold; margin-bottom: 26px;}
+.btn{ width: 230px; margin: 0 auto;}
+.btn p{float: left; width: 115px; height: 60px; line-height: 60px;}
+.btn p a{ color: #666;}
+.btn p a:hover{ text-decoration: underline;}
+.btn p.forgot{ text-align: left;}
+.btn p.regist{ text-align: right;}
+#txtUserID{ width: 198px; padding-left: 30px; height:30px; border: 1px solid #dfdfdf;}
+#txtPwd{ width: 198px; padding-left: 30px; height:30px; border: 1px solid #dfdfdf;}
+#btnLogin{ display: block; width: 230px; height: 36px; cursor: pointer; outline: none; text-align: center; cursor: pointer; background: #ff6900; color: #fff; font: 16px "Microsoft Yahei";}
+#divError{ width: 230px; text-align: center; color: #ee1600; margin-bottom: 10px;}
+#logoff b{font-weight: normal;color: #707e91; margin-left: 50px;}
+#logoff a{display: block; width: 300px; margin: 0 auto; height: 40px; line-height: 40px; text-align: center;}

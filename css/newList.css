@@ -1,0 +1,20 @@
+.main_right{float:right;margin-bottom:10px;width:846px;height:auto;background-color:#1a1b21}
+.newsCenter{box-sizing:border-box;width:100%;height:60px;background:url("image/newsCenter.png")/*tpa=http://www.wanfeifei.com/template/pc/cn2016//css/image/newsCenter.png*/ no-repeat;line-height:60px}
+.nc_l{float:left;padding-left:20px;height:60px}
+.nc_l em{color:#c6c6c6;font-size:20px}
+.nc_l i{color:#636578;font-size:12px}
+.nc_r{float:right;box-sizing:border-box;padding-top:5px;padding-right:20px;height:60px;color:#8d8e9a;font-size:12px}
+.nc_r a{color:#8d8e9a}
+.nc_x{color:#c8c8c8}
+.new_list{box-sizing:border-box;width:100%;height:50px;border-bottom:1px solid #ab0000;background-color:#2f303b}
+.new_list ul li{float:left}
+.new_list ul li a{display:block;width:140px;height:49px;color:#d5d5d7;text-align:center;line-height:49px}
+.new_list ul li a.active{background-color:#ab0000;color:#fff}
+.new_con{box-sizing:border-box;padding:50px 36px;width:100%;height:auto;background-color:#1a1b21}
+.new_con ul li a{display:block;box-sizing:border-box;width:100%;height:50px;border-bottom:1px dashed #2d2e37;color:#afafaf;font-size:15px;line-height:50px}
+.new_con ul li a em{padding-left:20px}
+.new_con ul li a i{float:right;padding-right:10px;color:#8e8f9b;font-size:12px}
+.prev_next{padding-bottom:30px;width:846px;height:28px;background-color:#1a1b21;text-align:center;line-height:28px}
+.prev_next li{float:left;}
+.prev_next a{margin:0 5px;padding:4px 5px;border:1px solid #333541;background:#292c35;color:#8e8f9b;font-size:12px}
+.prev_next span{overflow:hidden;display:inline-block;}

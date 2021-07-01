@@ -1,0 +1,91 @@
+﻿@charset "utf-8";
+
+
+
+
+/*首页内容*/
+/*第一行*/
+.one{ height: 370px; margin-bottom: 26px; }
+/*第一行第一列*/
+.one1{ float: left; width: 232px; height: 370px; margin-right: 26px; }
+/*最新活动*/
+.new-active{width: 232px; height: 268px; margin-bottom: 12px; }
+/*激活游戏*/
+.active-game{ float: left; display: block; width: 110px; height: 90px; text-align: center; color: #fff; background: #62cad1; margin-right: 12px; font-size:18px;  }
+.active-game p{ margin-top:30px;}
+.active-game img{ padding-top: 20px; margin-bottom: 10px; }
+.active-game:hover{ background: #0da0aa; }
+/*客服中心*/
+.client-center{ float: left; display: block; width: 110px; height: 90px; text-align: center; color: #fff; background: #62cad1;font-size:18px;  }
+.client-center img{ padding-top: 20px; margin-bottom: 10px; }
+.client-center:hover{ background: #0da0aa; }
+.client-center p{ margin-top:30px;}
+/*轮播*/
+.one2{ position:relative; float: left; width: 680px; height: 370px; margin-right: 26px; overflow: hidden; background: #fff;}
+.slide{ width: 20000em; position: absolute;}
+.slide a{display: block; float: left;}
+.slide a img{ display: block; width: 680px; height: 330px;}
+.slide-tab{ position: absolute; bottom: 0; width: 680px; height: 40px; background: #ccc; }
+.slide-tab a{display: block; float: left; width: 170px; height: 40px; font-size: 14px; text-align: center; line-height: 40px; color: #666; background: #fff;}
+.slide-tab a.current{ color: #fff; background: #62b8d1;}
+/*第一行第三列*/
+.one3{ float: left; width: 296px; height: 370px; }
+/*下载*/
+.download{ width: 296px; height: 156px; margin-bottom: 12px;}
+/*账号注册*/
+.reg{ float: left; display: block; width: 142px; height: 100px; text-align: center; font-size: 18px; font-weight: bold; color: #fff; background: #62cad1; margin-right: 12px; margin-bottom: 12px; }
+.reg img{ padding-top: 20px; margin-bottom: 10px; }
+.reg:hover{ background: #0da0aa; }
+/*礼包兑换*/
+.gift{ float: left; display: block; width: 140px; height: 100px; text-align: center; font-size: 18px; font-weight: bold; color: #fff; background: #62cad1; }
+.gift img{ padding-top: 20px; margin-bottom: 10px; }
+.gift:hover{ background: #0da0aa; }
+/*账号充值*/
+.recharge{ float: left; display: block; width: 296px; height: 90px; font-size: 20px; font-weight: bold; color: #fff; background: #62cad1; }
+.recharge:hover{ background: #0da0aa; }
+.recharge p{ padding-top: 30px; text-align: center; }
+.recharge p img{ position: relative; left: -10px; top: 5px; }
+/*第二行*/
+.two{ height: 392px; margin-bottom: 26px; }
+/*藏经阁*/
+.gold{ float: left; width: 232px; height: 392px; margin-right: 26px; background: #62b8d1; }
+.gold-title{ width: 232px; height: 70px; }
+.gold .gold-list{ position: relative; display: block; width: 200px; padding-left: 32px; height: 52px; text-align: center; line-height: 52px; color: #fff; border-top: 1px solid #428ba1; font-size: 18px; }
+.gold .gold-list img{ position: absolute; top: 8px; left: 50px; }
+.gold .gold-list:hover{ background: #329dbd; }
+/*新闻*/
+.news{ float: left; width: 350px; height: 392px; margin-right: 56px; background: #fff;margin-top：10px；margin-top：100px； }
+.news .title{ height: 40px; border-bottom: 2px solid #e5e5e5; margin-bottom: 20px; }
+.news .title h2{ float: left; margin-right: 60px; height: 40px; line-height: 40px; font-size: 20px; padding: 0 16px; color: #3f3f3f; border-bottom: 2px solid #428ba1; }
+.news .title a{ float: left; font-size: 16px; margin-right: 60px; padding-top: 14px; color: #7d7d7d; }
+.news .title a.choose{ color: #428ba1; font-weight: bold; font-size: 18px; }
+.news .title .more{ float: right; margin-right: 16px; }
+.news .con{ padding: 0 16px; margin-top：100px；}
+.news .con .first{ height: 100px;}
+.news .con .first .image{ float: left; width: 158px; height: 100px; margin-right: 20px; }
+.news .con .first .image img{ width: 158px; height: 100px; }
+.news .con .first h2{ float: left; width: 470px; height: 60px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; line-height: 60px; font-size: 24px; }
+.news .con .first p{ float: left; color: #aaa; }
+.news .con li{ margin-bottom: 14px; font-size: 14px; }
+.news .con li a{ color: #4c4b4b;}
+.news .con li a:hover{ color: #bb170b;}
+.news .con li span{ float: right; color: #aaa; }
+/*活动*/
+.active{ float: left; width: 296px; height: 392px; }
+.active a{ position: relative; }
+.active a img{ position: absolute; top: 0; }
+.active h2{ position: absolute; top: 30px; left: 20px; color: #3f3f3f;}
+.active .title{ position: absolute; top: 80px; left: 20px; color: #3f3f3f; }
+.active .detail{ position: absolute; top: 110px; left: 20px; width: 70px; height: 20px; line-height: 20px; color: #fff; background: #e2bf60; border-radius: 10px; text-align: center; }
+.active1{ display: block; width: 296px; height: 183px; margin-bottom: 26px; }
+.active2{ display: block; width: 296px; height: 183px; }
+/*第三行*/
+.three{ height: 400px; margin-bottom: 26px; }
+.officialaccount{ float: left; width: 206px; padding: 0 32px; height: 296px; background: #fff; margin-right: 26px;}
+/*最新攻略*/
+.data{ float: left; width: 172px; height: 320px; padding: 80px 20px 0; margin-right: 26px; background: url(../images/data.jpg) no-repeat; }
+.data h2{ font-weight: normal; margin-bottom: 6px; color: #3f3f3f;}
+
+
+.data li a:hover{ color: #e6a807;}
+.data li{ line-height:22px;}
