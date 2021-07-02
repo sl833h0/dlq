@@ -1,0 +1,34 @@
+VER:1.0.4
+E:\飞飞\2\补丁制作\补丁\ 的目录
+2021-07-02 01:52    7e38b0dd0676e43b7ea6886f862fdcf3 randomeventmonster.inc
+2021-07-02 17:34    5aba41c6e1f28e25627590ea308d1001 Flyff.exe
+2021-06-21 16:49    adc025b0b2bad825ef9e4e46613ad55c propItemEtc.txt.txt
+2021-06-23 01:33    99d01c8925cb0a5050953c06ea48c485 expTable.inc
+2021-06-23 03:09    9eaadfc56591dbbe229cf7ff225ec804 pet.inc
+2021-06-23 19:03    f9db5c0734b7f61d0ad51966ee23a6df propMoverExcept.txt
+2021-06-25 18:05    928ef57778ce96378be47b2c106e8822 Exchange_Script.txt
+2021-06-25 18:05    81eca595fea03e0c9a90c8c5e7a3d381 character.inc
+2021-06-25 18:06    3b6d750ed9a0207261c6e17e8ad33a04 textClient.inc
+2021-06-26 00:10    53990d207ee0a009d5bc364e66e840ef propItem.txt.txt
+2021-06-26 21:54    cd7e21c69d85cc8b8398a0c1164162ba propMover.txt.txt
+2021-06-27 18:01    e29d6ad12bd053988c2b462051cf56c7 PartyDungeon.lua
+2021-06-27 18:21    15b8a115cb58f01e53aea0fa702d6d3f propSkillAdd.csv
+2021-06-27 18:21    e678efa1a96f5c6b9bfd497894dc6c48 propSkill.txt.txt
+2021-06-27 19:05    23fc1fd492506f5fa67245a004fe0da2 propMover.txt
+2021-06-27 19:33    839754332cec157c200ecfe81850e9fd textClient.txt.txt
+2021-06-28 19:31    a8c2ebee56baf1b95c99e66add6314d1 propPackItem.inc
+2021-06-28 22:38    3432c51b8b36efcb9adaa28cd111c6fe resdata.inc
+2021-06-28 22:38    6e162e3e72de442058ba8082527b9a12 ResData.h
+2021-06-28 22:38    8f8e6c7bf5a71bbf0aaaeafebbcb9693 resData.txt.txt
+2021-06-29 19:21    87fada04e01e7b2cf9ae20be664fda10 honorList.txt
+2021-06-29 19:21    d6ded153b96e55cf40406b09164e6e28 honorList.txt.txt
+2021-06-29 19:33    3726dae9461b1f06722610d212f6c13a couple.inc
+2021-06-29 23:56    59cf0ce9913174876890bf890fe9018c propItemEtc.inc
+2021-06-29 23:56    155a22466b3a5ab2181968fd72ccfd71 propMoverEx.inc
+2021-06-30 00:06    381aad6c8ca7dd931888d37aa995d8d4 propItem.txt
+2021-07-01 21:23    25ea6e80335cb423e16ea8e2d381c864 character.txt.txt
+2021-07-01 23:52    2fcdfcb9920f0e9a67e1b7f5238dad5e CashShop.inc
+E:\飞飞\2\补丁制作\补丁\Client\ 的目录
+2021-07-02 18:25    160230ad8ff1501a5a3038aee353d353 notice.inc
+E:\飞飞\2\补丁制作\补丁\NPC\ 的目录
+2021-06-27 18:49    8491e5d450286320456bbb6d00685199 传送使者.lua
